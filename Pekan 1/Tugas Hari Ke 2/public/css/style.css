@@ -1,0 +1,63 @@
+body {
+    background-image: url('pattern.jpg');
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(17, 19, 182);
+}
+
+/* header */
+header {
+    background-color: white;
+    padding: 8px 12px;
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+}
+
+header img {
+    float: left;
+}
+
+header nav {
+    float: right;
+}
+
+
+li {
+    list-style-type: none;
+    display: inline;
+    padding: 0 15px;
+}
+
+nav a {
+    color: rgb(17, 19, 182);
+    text-decoration: none;
+}
+
+/* section */
+
+section {
+    background-color: white;
+    margin: 10 100px;
+    padding: 10px;
+}
+
+.artikel {
+    padding-top: 15px;
+    border-bottom: 1px solid black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+    font-size: 18px;
+}
