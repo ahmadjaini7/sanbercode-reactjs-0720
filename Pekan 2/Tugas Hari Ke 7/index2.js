@@ -16,5 +16,5 @@ var books = [{
 
 // Lanjutkan code untuk menjalankan function readBooksPromise 
 
-// Bang saya gak paham materi dan tugasnya berbeda kali. Jadi saya kerjakan sampai sini aja.
+// Bang saya gak paham materi dan tugasnya berbeda kali. Jadi saya kerjakan sampai sini bang.
 // Kalau tugasnya seperti dicontoh buat callback dan promise dari awal. mungkin lebih mudah dipahami untuk pemula bang
